@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0d1117&height=200&section=header&text=Lalit%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Developer&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0d1117&height=200&section=header&text=Lalit%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&reload=2" alt="header" width="100%"/>
 </p>
 
 <!-- Typing animation -->
@@ -108,24 +108,24 @@ Applied-AI work I've shipped and the areas I'm actively pushing into:
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/QuillFlow">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=QuillFlow&theme=github_dark&hide_border=true&bg_color=0d1117" alt="QuillFlow"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=QuillFlow&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=2" alt="QuillFlow"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/MemoMates">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=MemoMates&theme=github_dark&hide_border=true&bg_color=0d1117" alt="MemoMates"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=MemoMates&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=2" alt="MemoMates"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/BazaarBuddy">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=BazaarBuddy&theme=github_dark&hide_border=true&bg_color=0d1117" alt="BazaarBuddy"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=BazaarBuddy&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=2" alt="BazaarBuddy"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/system-design-primer">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=system-design-primer&theme=github_dark&hide_border=true&bg_color=0d1117" alt="system-design-primer"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=system-design-primer&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=2" alt="system-design-primer"/>
       </a>
     </td>
   </tr>
