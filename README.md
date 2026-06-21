@@ -1,23 +1,28 @@
-<h1 align="center">Hi, I'm Lalit Sharma 👋</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0d1117&height=200&section=header&text=Lalit%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Developer&descAlignY=58&descSize=18" alt="header"/>
+</p>
 
+<!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/lalitsharma250">
     <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Backend+%26+Systems+Developer;Open-Source+Enthusiast;Java+%7C+Python+%7C+C%2B%2B+%7C+Go&center=true&width=480&height=45&duration=3500&pause=800&color=0E75B6" alt="Typing SVG"/>
   </a>
 </p>
 
+<!-- Social badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/TODO-your-handle/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/lalit-sharma-11a6a5228/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:TODO@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:lalit250603@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://TODO-portfolio.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/lalitsharma250">
-    <img src="https://komarev.com/ghpvc/?username=lalitsharma250&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=lalitsharma250&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
   </a>
 </p>
 
@@ -25,10 +30,20 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm a software engineer focused on **backend services and systems programming**.
+> *"Build systems that are simple to reason about and hard to break."*
+
+- 🔭 Software engineer focused on **backend services and systems programming**.
 - 🌱 Currently sharpening my skills in **distributed systems & scalable architecture**.
 - 💬 Ask me about **Java, Python, C++, and Go**.
-- 📫 Reach me at the links above — open to **SDE opportunities**.
+- ⚡ I enjoy untangling performance bottlenecks and designing clean APIs.
+- 📫 Open to **SDE opportunities** — reach me through the links above.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-0E75B6?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Backends-0E75B6?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Focus-Systems%20Programming-0E75B6?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Focus-Open%20Source-0E75B6?style=flat-square" alt="focus"/>
+</p>
 
 ---
 
@@ -42,14 +57,19 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks & Backend**
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Cloud**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -97,6 +117,26 @@
   <img src="https://streak-stats.demolab.com/?user=lalitsharma250&hide_border=true" alt="GitHub streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalitsharma250&bg_color=0d1117&color=0E75B6&line=0E75B6&point=ffffff&hide_border=true" alt="Activity graph"/>
+</p>
+
 ---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lalitsharma250/lalitsharma250/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+</p>
+
+> ℹ️ The snake needs a GitHub Action to render. Add [`Platane/snk`](https://github.com/Platane/snk) as a scheduled workflow that pushes to the `output` branch.
+
+---
+
+<p align="center"><em>"The best way to predict the future is to build it." — Alan Kay</em></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0E75B6&height=120&section=footer" alt="footer"/>
+</p>
 
 <p align="center"><em>Thanks for visiting — feel free to reach out! 🚀</em></p>
