@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0d1117&height=200&section=header&text=Lalit%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Developer&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0E75B6,100:0d1117&amp;height=200&amp;section=header&amp;text=Lalit%20Sharma&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20%26%20Systems%20Developer&amp;descAlignY=58&amp;descSize=18" alt="header"/>
 </p>
 
 <!-- Typing animation -->
@@ -39,15 +39,20 @@
 - 📫 Open to **SDE opportunities** — reach me through the links above.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-0E75B6?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Backends-0E75B6?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Focus-Systems%20Programming-0E75B6?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Focus-Open%20Source-0E75B6?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-blueviolet?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Scalable%20Backends-blue?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Systems%20Programming-success?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Open%20Source-orange?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Performance%20Tuning-red?style=flat-square" alt="focus"/>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,go,spring,postgres,redis,docker,kubernetes,aws,linux,git&theme=dark" alt="tech icons"/>
+</p>
 
 **Languages**
 
@@ -79,24 +84,24 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/QuillFlow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=QuillFlow&theme=default" alt="QuillFlow"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=QuillFlow&theme=github_dark&hide_border=true&bg_color=0d1117" alt="QuillFlow"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/MemoMates">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=MemoMates&theme=default" alt="MemoMates"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=MemoMates&theme=github_dark&hide_border=true&bg_color=0d1117" alt="MemoMates"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/BazaarBuddy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=BazaarBuddy&theme=default" alt="BazaarBuddy"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=BazaarBuddy&theme=github_dark&hide_border=true&bg_color=0d1117" alt="BazaarBuddy"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/system-design-primer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=system-design-primer&theme=default" alt="system-design-primer"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=system-design-primer&theme=github_dark&hide_border=true&bg_color=0d1117" alt="system-design-primer"/>
       </a>
     </td>
   </tr>
@@ -109,12 +114,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lalitsharma250&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitsharma250&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lalitsharma250&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0d1117" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitsharma250&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=0d1117" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lalitsharma250&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=lalitsharma250&hide_border=true&theme=github-dark-blue&background=0d1117" alt="GitHub streak"/>
 </p>
 
 <p align="center">
@@ -136,7 +141,7 @@
 <p align="center"><em>"The best way to predict the future is to build it." — Alan Kay</em></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0E75B6&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:0E75B6&amp;height=120&amp;section=footer" alt="footer"/>
 </p>
 
 <p align="center"><em>Thanks for visiting — feel free to reach out! 🚀</em></p>
