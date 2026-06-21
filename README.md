@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/lalitsharma250">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Backend+%26+Systems+Developer;Open-Source+Enthusiast;Java+%7C+Python+%7C+C%2B%2B+%7C+Go&center=true&width=480&height=45&duration=3500&pause=800&color=0E75B6" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Backend+%26+Systems+Developer;AI%2FML+Engineer;LLM+%26+GenAI+Builder;Open-Source+Enthusiast&center=true&width=480&height=45&duration=3500&pause=800&color=0E75B6" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -32,18 +32,19 @@
 
 > *"Build systems that are simple to reason about and hard to break."*
 
-- 🔭 Software engineer focused on **backend services and systems programming**.
-- 🌱 Currently sharpening my skills in **distributed systems & scalable architecture**.
-- 💬 Ask me about **Java, Python, C++, and Go**.
-- ⚡ I enjoy untangling performance bottlenecks and designing clean APIs.
-- 📫 Open to **SDE opportunities** — reach me through the links above.
+- 🔭 Software engineer working across **backend systems and applied AI/ML**.
+- 🤖 Hands-on experience building with **LLMs & GenAI, NLP/CV, and ML in production (MLOps)**.
+- 🌱 Currently going deep on **core ML & deep learning** — side projects landing here soon.
+- 💬 Ask me about **Java, Python, C++, Go**, and shipping AI-powered systems.
+- ⚡ I enjoy untangling performance bottlenecks and designing clean, scalable APIs.
+- 📫 Open to **SDE & AI/ML Engineer opportunities** — reach me through the links above.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Distributed%20Systems-blueviolet?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Scalable%20Backends-blue?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Systems%20Programming-success?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Open%20Source-orange?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Performance%20Tuning-red?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/LLMs%20%26%20GenAI-blueviolet?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/NLP%20%26%20Computer%20Vision-blue?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/MLOps%20%26%20Data-success?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-orange?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Scalable%20Backends-red?style=flat-square" alt="focus"/>
 </p>
 
 ---
@@ -51,7 +52,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,go,spring,postgres,redis,docker,kubernetes,aws,linux,git&theme=dark" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,go,spring,postgres,redis,docker,kubernetes,aws,linux,git,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="tech icons"/>
 </p>
 
 **Languages**
@@ -75,6 +76,29 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+### 🧠 AI / ML Focus
+
+Applied-AI work I've shipped and the areas I'm actively pushing into:
+
+- 🤖 **LLMs & GenAI** — building on OpenAI/LLM APIs, prompt engineering, RAG pipelines, and agentic workflows with LangChain.
+- 📝 **NLP & Computer Vision** — text understanding/extraction and vision tasks with OpenCV and transformer models.
+- 🚢 **MLOps & Data** — data wrangling with Pandas/NumPy and deploying ML behind production services.
+- 📚 **Core ML & Deep Learning** — actively deepening fundamentals (PyTorch/TensorFlow) through side projects — *more landing here soon.*
 
 ---
 
