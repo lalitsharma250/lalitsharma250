@@ -52,7 +52,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,go,spring,postgres,redis,docker,kubernetes,aws,linux,git,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,go,spring,postgres,redis,docker,kubernetes,aws,git,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="tech icons"/>
 </p>
 
 **Languages**
