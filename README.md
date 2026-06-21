@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0E75B6,100:0d1117&amp;height=200&amp;section=header&amp;text=Lalit%20Sharma&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20%26%20Systems%20Developer&amp;descAlignY=58&amp;descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0d1117&height=200&section=header&text=Lalit%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Developer&descAlignY=58&descSize=18" alt="header"/>
 </p>
 
 <!-- Typing animation -->
@@ -84,24 +84,24 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/QuillFlow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=QuillFlow&theme=github_dark&hide_border=true&bg_color=0d1117" alt="QuillFlow"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=QuillFlow&theme=github_dark&hide_border=true&bg_color=0d1117" alt="QuillFlow"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/MemoMates">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=MemoMates&theme=github_dark&hide_border=true&bg_color=0d1117" alt="MemoMates"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=MemoMates&theme=github_dark&hide_border=true&bg_color=0d1117" alt="MemoMates"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/BazaarBuddy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=BazaarBuddy&theme=github_dark&hide_border=true&bg_color=0d1117" alt="BazaarBuddy"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=BazaarBuddy&theme=github_dark&hide_border=true&bg_color=0d1117" alt="BazaarBuddy"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lalitsharma250/system-design-primer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=system-design-primer&theme=github_dark&hide_border=true&bg_color=0d1117" alt="system-design-primer"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=system-design-primer&theme=github_dark&hide_border=true&bg_color=0d1117" alt="system-design-primer"/>
       </a>
     </td>
   </tr>
@@ -143,7 +143,7 @@
 <p align="center"><em>"The best way to predict the future is to build it." — Alan Kay</em></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:0E75B6&amp;height=120&amp;section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0E75B6&height=120&section=footer" alt="footer"/>
 </p>
 
 <p align="center"><em>Thanks for visiting — feel free to reach out! 🚀</em></p>
