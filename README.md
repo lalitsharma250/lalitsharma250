@@ -1,8 +1,10 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0d1117&height=200&section=header&text=Lalit%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&reload=2" alt="header" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0E75B6,100:0d1117&amp;height=200&amp;section=header&amp;text=Lalit%20Sharma&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20%26%20Systems%20Developer%20%7C%20AI%2FML%20Engineer&amp;descAlignY=58&amp;descSize=18&amp;reload=2"
+    alt="header"
+    width="100%"
+  />
 </p>
-
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/lalitsharma250">
