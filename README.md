@@ -14,12 +14,19 @@
   <a href="mailto:lalit250603@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://TODO-portfolio.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
+  <a href="https://quill-flow-sable.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="https://github.com/lalitsharma250">
     <img src="https://komarev.com/ghpvc/?username=lalitsharma250&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
   </a>
+</p>
+
+<p align="center">
+  <b>Backend & AI/ML engineer who ships production systems</b> — I built <a href="https://github.com/lalitsharma250/QuillFlow">QuillFlow</a>,
+  a deployed, multi-tenant Agentic RAG platform (FastAPI · LangGraph · Qdrant) with hybrid retrieval, reranking, and citation-grounded answers.
+  <br/>
+  <sub>📍 Open to <b>Backend / Systems</b> &amp; <b>AI / ML Engineer</b> roles</sub>
 </p>
 
 ---
@@ -29,10 +36,10 @@
 > *"Build systems that are simple to reason about and hard to break."*
 
 - 🔭 Software engineer working across **backend systems and applied AI/ML**.
-- 🤖 Hands-on experience building with **LLMs & GenAI, NLP/CV, and ML in production (MLOps)**.
-- 🌱 Currently going deep on **core ML & deep learning** — side projects landing here soon.
-- 💬 Ask me about **Java, Python, C++, Go**, and shipping AI-powered systems.
-- ⚡ I enjoy untangling performance bottlenecks and designing clean, scalable APIs.
+- 🚀 Shipped **[QuillFlow](https://github.com/lalitsharma250/QuillFlow)** — a production Agentic RAG platform: hybrid retrieval (dense + BM25 + cross-encoder rerank), LangGraph orchestration, multi-tenant auth, 30+ REST endpoints, and a two-tier Redis cache.
+- 🤖 Hands-on with **LLMs & GenAI, RAG pipelines, NLP/CV**, and serving ML behind real production services.
+- 💬 Ask me about **Python, Java, C++, Go**, designing clean scalable APIs, and putting AI into production.
+- ⚡ I enjoy untangling performance bottlenecks and designing systems that are simple to reason about and hard to break.
 - 📫 Open to **SDE & AI/ML Engineer opportunities** — reach me through the links above.
 
 <p align="center">
@@ -94,7 +101,7 @@ Applied-AI work I've shipped and the areas I'm actively pushing into:
 - 🤖 **LLMs & GenAI** — building on OpenAI/LLM APIs, prompt engineering, RAG pipelines, and agentic workflows with LangChain.
 - 📝 **NLP & Computer Vision** — text understanding/extraction and vision tasks with OpenCV and transformer models.
 - 🚢 **MLOps & Data** — data wrangling with Pandas/NumPy and deploying ML behind production services.
-- 📚 **Core ML & Deep Learning** — actively deepening fundamentals (PyTorch/TensorFlow) through side projects — *more landing here soon.*
+- 📚 **Core ML & Deep Learning** — deepening fundamentals (PyTorch/TensorFlow) and applying them in hands-on projects.
 
 ---
 
@@ -102,32 +109,38 @@ Applied-AI work I've shipped and the areas I'm actively pushing into:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="62%" valign="top">
+      <h4>🪶 <a href="https://github.com/lalitsharma250/QuillFlow">QuillFlow</a> — Production Agentic RAG Platform</h4>
+      <p>
+        A deployed, multi-tenant RAG system that answers questions over your private knowledge base with
+        <b>citation-grounded</b> responses. Built end-to-end: ingestion → retrieval → generation → serving.
+      </p>
+      <ul>
+        <li><b>Hybrid retrieval</b> — dense (Qdrant/HNSW) + sparse (BM25) + cross-encoder reranking</li>
+        <li><b>Agentic orchestration</b> — LangGraph DAG routes simple vs. complex queries, plans & writes multi-section answers in parallel</li>
+        <li><b>Enterprise backend</b> — JWT + API-key auth, RBAC, multi-tenant isolation, 30+ FastAPI endpoints</li>
+        <li><b>Performance</b> — two-tier Redis cache (exact + semantic), async ARQ workers, SSE streaming</li>
+      </ul>
+      <p>
+        <code>Python 3.12</code> · <code>FastAPI</code> · <code>LangGraph</code> · <code>Qdrant</code> ·
+        <code>PostgreSQL</code> · <code>Redis</code> · <code>React</code> · <code>Docker</code>
+      </p>
+      <p>
+        <a href="https://quill-flow-sable.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/lalitsharma250/QuillFlow"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
+      </p>
+    </td>
+    <td width="38%" valign="top">
       <a href="https://github.com/lalitsharma250/QuillFlow">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=QuillFlow&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=2" alt="QuillFlow"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lalitsharma250/MemoMates">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=MemoMates&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=2" alt="MemoMates"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lalitsharma250/BazaarBuddy">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=BazaarBuddy&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=2" alt="BazaarBuddy"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lalitsharma250/system-design-primer">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=system-design-primer&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=2" alt="system-design-primer"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitsharma250&repo=QuillFlow&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=3" alt="QuillFlow"/>
       </a>
     </td>
   </tr>
 </table>
 
-> 💡 Tip: also **pin** these repos on your profile (Profile → Customize your pins) so they show above the fold.
+<sub>🚧 A second AI-focused project is in the works — it'll be featured here once it ships.</sub>
+
+> 💡 Tip: **pin** QuillFlow on your profile (Profile → Customize your pins) so it shows above the fold.
 
 ---
 
