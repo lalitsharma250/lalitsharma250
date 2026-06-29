@@ -5,8 +5,6 @@
   </a>
 </p>
 
-<h3 align="center">Backend &amp; Systems Developer · AI/ML Engineer</h3>
-
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/lalitsharma250">
