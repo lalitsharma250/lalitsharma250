@@ -140,8 +140,6 @@ Applied-AI work I've shipped and the areas I'm actively pushing into:
 
 <sub>🚧 A second AI-focused project is in the works — it'll be featured here once it ships.</sub>
 
-> 💡 Tip: **pin** QuillFlow on your profile (Profile → Customize your pins) so it shows above the fold.
-
 ---
 
 ### 📊 GitHub Stats
