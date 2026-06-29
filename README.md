@@ -1,4 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0d1117&height=200&section=header&text=Lalit%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&reload=2)
+<!-- Name banner (typing-svg renders reliably through GitHub's image proxy) -->
+<p align="center">
+  <a href="https://github.com/lalitsharma250">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=46&duration=1&pause=99999&color=0E75B6&center=true&vCenter=true&width=900&height=110&lines=Lalit+Sharma" alt="Lalit Sharma"/>
+  </a>
+</p>
+
+<h3 align="center">Backend &amp; Systems Developer · AI/ML Engineer</h3>
+
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/lalitsharma250">
