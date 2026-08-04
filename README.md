@@ -148,23 +148,6 @@ Applied-AI work I've shipped and the areas I'm actively pushing into:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lalitsharma250&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0d1117" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitsharma250&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=0d1117" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lalitsharma250&hide_border=true&theme=github-dark-blue&background=0d1117" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalitsharma250&bg_color=0d1117&color=0E75B6&line=0E75B6&point=ffffff&hide_border=true" alt="Activity graph"/>
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
